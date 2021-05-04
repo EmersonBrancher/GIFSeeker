@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48ee064a-ce3d-44ee-8bb3-56f7ee1794ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GIFSeeker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rrlGHyGFB1mcXGljHXJ3cW7mvd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Uz-\Flutter\GIFSeeker\gif_seeker\android\app\src\main\java\com\brancher" />
+      <recent name="C:\Uz-\Flutter\GIFSeeker\gif_seeker\android\app\src\main" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ee064a-ce3d-44ee-8bb3-56f7ee1794ed" name="Default Changelist" comment="" />
+      <created>1619741991231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619741991231</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1620" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619742391952">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1620" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619742391952" />
+    <state x="-1828" y="92" width="1736" height="856" key="AVDManager" timestamp="1619742324655">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="AVDManager/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619742324655" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1619743616647">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1619743616647" />
+  </component>
+</project>
